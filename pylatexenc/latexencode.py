@@ -577,6 +577,11 @@ utf82latex={
 9711:'\\textbigcircle',
 9834:'\\textmusicalnote',
 
+# Linguistics
+601: '\\textschwa',
+660: '\\textglotstop',
+695: '\\textsuperscript{w}', 
+
 
 # ADDED MANUALLY (PhF):
 # ---------------------
@@ -814,6 +819,8 @@ utf82latex={
 0xFB02: r'fl', # LATIN SMALL LIGATURE FL
 0xFB03: r'ffi', # LATIN SMALL LIGATURE FFI
 0xFB04: r'ffl', # LATIN SMALL LIGATURE FFL
+
+
 
 }
 

@@ -1,3 +1,5 @@
+**Modified to accept some IPA Unicode characters** 
+
 pylatexenc
 ==========
 
